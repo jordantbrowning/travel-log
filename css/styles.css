@@ -1,0 +1,38 @@
+body {
+  max-width: 700px;
+}
+
+.intro h1 {
+  text-align: center;
+  background-color: #93ccea;
+  padding: 15px;
+}
+
+.intro img {
+  display: block;
+  height: 300px;
+  margin: 0 auto;
+}
+
+figure {
+  width: 320px;
+  height: 240px;
+  background-color: #d6d6d6;
+  padding: 9px 9px 27px 9px;
+  border-radius: 4px;
+
+}
+
+figure img {
+  border: 1px solid #c3c3c3;
+  border-radius: 4px;
+}
+
+figcaption {
+  margin-left: 2px;
+}
+
+h2{
+  text-align: center;
+
+}
